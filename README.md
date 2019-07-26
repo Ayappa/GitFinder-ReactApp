@@ -1,5 +1,29 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#GitHubFinder
+
+## search users by name with form validation
+![home](https://user-images.githubusercontent.com/22851920/61943319-2e9d5300-af69-11e9-841e-3219e38c6154.PNG)
+
+
+## enter the user name to search and display in cards
+![search](https://user-images.githubusercontent.com/22851920/61943321-2e9d5300-af69-11e9-9d4a-4a1be5ec68d1.PNG)
+
+## click on info button of user to view more info
+![info](https://user-images.githubusercontent.com/22851920/61943322-2e9d5300-af69-11e9-91dc-b060e6a52c6f.PNG)
+
+## click "Visit GitHub Profile" to visit user gitHub page
+![githubpage](https://user-images.githubusercontent.com/22851920/61943324-2e9d5300-af69-11e9-8fab-b694903c3702.PNG)
+
+## click "clear" or "Back to Search" to go back to Home
+![back](https://user-images.githubusercontent.com/22851920/61943325-2e9d5300-af69-11e9-95e4-774411f9d6fb.PNG)
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
